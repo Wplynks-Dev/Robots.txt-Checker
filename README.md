@@ -20,3 +20,39 @@ By providing a clear breakdown of user agents and associated rules, the extensio
 Note: Respect website terms of service and be aware that the information provided by the robots.txt file may vary from site to site.
 
 This Chrome extension enhances user experience by simplifying the process of understanding a website's robots.txt file, making it a valuable tool for web-related tasks and SEO optimization.
+
+Download Link: If your extension is available on the Chrome Web Store, provide a link to its page. If you distribute it through GitHub or other means, provide a direct download link or instructions on where to obtain the extension package.
+
+Installation Steps: Outline the steps for installation, which typically involve the following:
+
+Open the Google Chrome browser.
+Go to the Chrome Web Store (if applicable).
+Search for your extension by name.
+Click the "Add to Chrome" button to install.
+Confirm any permissions or settings required during installation.
+3. How to Use:
+
+Explain how to use your Chrome extension effectively. Include step-by-step instructions or a quick start guide. This section might cover:
+
+How to access the extension (e.g., via the Chrome toolbar).
+How to input a website URL for analysis.
+How to initiate the analysis (e.g., by clicking a button).
+How to interpret the results displayed by the extension.
+4. When to Use:
+
+Describe the scenarios and use cases in which your Chrome extension is valuable. Explain why users might want to use it and the benefits they can expect. For example:
+
+"Use this extension to quickly check a website's robots.txt file to understand how search engines are instructed to crawl the site."
+"Beneficial for web developers, SEO professionals, and anyone interested in website crawling and indexing policies."
+
+## Credits and Acknowledgments
+
+We would like to express our gratitude to **Carlos Chevez**, an SEO Expert from Wp Lynks Inc, for their valuable insights and contributions to this Chrome extension. Carlos's expertise and guidance have played a significant role in improving the functionality and effectiveness of our extension.
+
+- **Carlos Chevez**
+  - LinkedIn: [Carlos Chevez's LinkedIn Profile](https://www.linkedin.com/in/carlos-j-chevez/)
+  - Website: [https://www.wplynks.com](https://www.wplynks.com)
+
+We also want to thank the open-source community for their continuous support and feedback. Your contributions have been instrumental in making this project successful.
+
+If you would like to contribute or provide feedback, please don't hesitate to reach out to us. We appreciate your support and collaboration.
